@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @4Quattr0
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning at school
